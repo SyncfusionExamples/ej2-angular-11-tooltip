@@ -28,17 +28,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Features and Benefits
 
-## Tooltip design
-
-Angular Tooltip is shipped with several built-in themes such as Material, Bootstrap, Fabric (Office 365), Tailwind CSS, and High Contrast. Users can customize any one of these built-in themes or create new themes to achieve their own desired look and feel. They can do this by either simply overriding SASS variables or using our Theme Studio application.
-
 ## Easy integration
 
 You just need a message and target element to make the Tooltip fully functional. It will work out of the box. However, it provides many options to change the position, animation, and appearance.
-
-## Touch-friendly
-
-The Angular Tooltip responds to screen size and adapts its contents to fit any touch device. It recognizes touch gestures and displays its message when performing a touch and hold action. It will hide after 1500ms. This provides the best user experience for touch devices such as phones and tablets.
 
 ## Show and hide
 
@@ -50,7 +42,7 @@ By default, the Angular Tooltip will show and hide when hovering in and out. You
 
 ## Related Links
 
-[Learn More about Angular tooltip](https://www.syncfusion.com/angular-components/angular-tooltip?utm_source=github&utm_medium=listing&utm_campaign=angular-tooltip-github-samples)
+[Learn More about Angular Tooltip](https://www.syncfusion.com/angular-components/angular-tooltip?utm_source=github&utm_medium=listing&utm_campaign=angular-tooltip-github-samples)
 
 [Download Free Trial](https://www.syncfusion.com/downloads/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-tooltip-github-samples)
 
